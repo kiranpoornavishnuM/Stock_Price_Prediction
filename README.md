@@ -22,7 +22,9 @@ Then we train the model with epochs 20 which indicates 20 number of passes of th
 
 Then we create the testing data set which is the other 20% of the data. Now we convert the data into array using numpy then we reshape the data from 0 to 1.
 
-Finally we plot the grpah which consists of Acutal Price and Predicted Price
+Finally we plot the grpah which consists of Acutal Price and Predicted Price</br>
+![image](https://user-images.githubusercontent.com/85122502/128718393-e39f6e16-b9b4-4cf4-8d29-b7846350a010.png)
+
 
 
 
